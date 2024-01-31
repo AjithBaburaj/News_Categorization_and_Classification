@@ -9,7 +9,7 @@ import google.generativeai as genai
 
 import google.generativeai as genai
 ## Configure Genai Key
-api_key = "AIzaSyA56QV0jwvxrFTh6-Cs-Lt1qJ1QxukfC9Q"
+api_key = ""
 genai.configure(api_key=api_key)
 
 rss_feed_url = 'http://rss.cnn.com/rss/cnn_topstories.rss'
